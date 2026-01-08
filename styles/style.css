@@ -90,6 +90,7 @@
 #failures .section-content p {
     font-size: 16px;
     color: #444343;
+    line-height: 26px;
 }
 #plans, #tagline{
     max-width: 83%;
